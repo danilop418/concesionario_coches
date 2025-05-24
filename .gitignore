@@ -1,0 +1,3 @@
+# Ignorar configuración de IntelliJ
+.idea/
+*.iml
